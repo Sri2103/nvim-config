@@ -1,4 +1,5 @@
 require("harsha.core")
 require("harsha.lazy")
 require("harsha.intuition")
+--require("harsha.snippets")
 pcall(require, "luarocks.loader")
